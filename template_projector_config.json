@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [1000, 50],
+      "tensorPath": "https://ddenis-k.github.io/result.tsv",
+      "metadataPath": "https://ddenis-k.github.io/result-meta-by-label.tsv"
+    }
+  ]
+}
